@@ -15,8 +15,9 @@ const Dress = () => {
         <div className="mt-4 text-center xl:text-left">
           {/* <h3 className="mb-1 text-xs tracking-widest text-gray-500 title-font">SOLO</h3> */}
           <h2 className="ml-16 text-3xl font-medium text-gray-900 title-font">SOLO</h2>
-          <p className="mt-1">₹16.00</p>
-          <p className='my-1'>S, M, XL, XXL</p>
+          <div className='flex'>
+          <a className='flex' href='/dress2'><p className="flex my-1"><button className='px-3 mx-16 mr-4 bg-orange-400 rounded-sm'>MALE</button></p></a>
+          <a href='/dress3'><p className='my-1'><button className='px-3 mx-4 bg-orange-400 rounded-sm'>FEMALE</button></p></a></div>
         </div>
       </div>
       

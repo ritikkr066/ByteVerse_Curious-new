@@ -6,6 +6,7 @@ const Footer1 = () => {
     
     <footer className="text-gray-600 body-font">
   <div className="container flex flex-col items-center justify-around px-5 py-8 mx-auto sm:flex-row">
+    <div>TEAM_CURIOUS</div>
     <div>
     <motion.div initial={{opacity:0,x:150}}
        animate={{opacity:1,x:0}}
