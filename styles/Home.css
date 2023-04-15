@@ -1,0 +1,29 @@
+
+.container-fluid main_header{
+    height: 100%;
+    width: 100%;
+}
+.main_header_right{
+    height: 70rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-self: flex-start;
+}
+.main_header_left{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.main_header_left button{
+    border: none;
+    padding: 0.8rem 1.8rem;
+    font-size: 1.4rem;
+    border-radius: 2rem;
+    text-transform: uppercase;
+    box-shadow: 0 8px 6px -6px;
+   
+}
+.main_header_right figure img{
+    filter: drop-shadow(0 0.5rem 1rem);
+}
