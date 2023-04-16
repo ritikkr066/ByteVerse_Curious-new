@@ -12,8 +12,8 @@ const navbar = () => {
           <p className='pt-2'>PERSONAL SPACE</p>
          </div>
       <ul className='flex items-center mx-auto space-x-2 font-bold'>
-        <Link href={'/dress'}>DRESS</Link>
-        <Link href={'/hoodies'}>HOODIES</Link>
+        <Link href={'/dress'}>CLOTHING</Link>
+        <Link href={'/hotelreview'}>REVIEWS</Link>
         <Link href={'/mugs'}>MUGS</Link>
         <Link href={'/sneaker'}>SNEAKERS</Link>
       </ul>
