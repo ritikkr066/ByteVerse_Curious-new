@@ -13,9 +13,9 @@ const Dress = () => {
 <section className="text-gray-600 body-font">
   <div className="container px-5 py-24 mx-auto bg-slate-50">
     <div className="flex flex-wrap -m-4">
-      <div className="w-full p-4 m-1 mx-3 mx-auto my-4 shadow-2xl hover:bg-pink-200 lg:w-1/5 md:w-1/2"><Link href={'/product/ritik'}
+      <div className="w-full p-4 m-1 mx-3 mx-auto my-4 shadow-2xl lg:w-1/5 md:w-1/2"><Link href={'/disp3'}
          className="relative block overflow-hidden rounded">
-          <img alt="ecommerce" className="m-auto md:mx-0 block h-[30vh] md:h-[36vh] pl-7" src="COUPLE1.webp"/>
+          <img alt="ecommerce" className="m-auto md:mx-0 block h-[30vh] md:h-[36vh] pl-14" src="COUPLE1.webp"/>
         </Link>
         <div className="mt-4 text-center xl:text-left">
           <h3 className="mb-1 text-xs tracking-widest text-gray-500 title-font">Dress</h3>
@@ -25,7 +25,7 @@ const Dress = () => {
         </div>
         
       </div>
-      <div className="w-full p-4 m-1 mx-3 mx-auto my-4 shadow-2xl hover:bg-pink-200 lg:w-1/5 md:w-1/2"><Link href={'/product/ritik'}
+      <div className="w-full p-4 m-1 mx-3 mx-auto my-4 shadow-2xl lg:w-1/5 md:w-1/2"><Link href={'/disp3'}
          className="relative block overflow-hidden rounded">
           <img alt="ecommerce" className="m-auto md:mx-0 block h-[30vh] md:h-[36vh]" src="COUPLE2.webp"/>
         </Link>
@@ -37,7 +37,7 @@ const Dress = () => {
         </div>
         
       </div>
-      <div className="w-full p-4 m-1 mx-3 mx-auto my-4 shadow-2xl hover:bg-pink-200 lg:w-1/5 md:w-1/2"><Link href={'/product/ritik'}
+      <div className="w-full p-4 m-1 mx-3 mx-auto my-4 shadow-2xl lg:w-1/5 md:w-1/2"><Link href={'/disp3'}
          className="relative block overflow-hidden rounded">
           <img alt="ecommerce" className="m-auto md:mx-0 block h-[30vh] md:h-[36vh] pl-14" src="COUPLE3.webp"/>
         </Link>
@@ -49,7 +49,7 @@ const Dress = () => {
         </div>
         
       </div>
-      <div className="w-full p-4 m-1 mx-3 mx-auto my-4 shadow-2xl hover:bg-pink-200 lg:w-1/5 md:w-1/2"><Link href={'/product/ritik'}
+      <div className="w-full p-4 m-1 mx-3 mx-auto my-4 shadow-2xl lg:w-1/5 md:w-1/2"><Link href={'/disp3'}
          className="relative block overflow-hidden rounded">
           <img alt="ecommerce" className="m-auto md:mx-0 block h-[30vh] md:h-[36vh]" src="COUPLE4.webp"/>
         </Link>
@@ -61,7 +61,7 @@ const Dress = () => {
         </div>
         
       </div>
-      <div className="w-full p-4 m-1 mx-3 mx-auto my-4 shadow-2xl hover:bg-pink-200 lg:w-1/5 md:w-1/2"><Link href={'/product/ritik'}
+      <div className="w-full p-4 m-1 mx-3 mx-auto my-4 shadow-2xl lg:w-1/5 md:w-1/2"><Link href={'/disp3'}
          className="relative block overflow-hidden rounded">
           <img alt="ecommerce" className="m-auto md:mx-0 block h-[30vh] md:h-[36vh]" src="COUPLE5.webp"/>
         </Link>
@@ -73,7 +73,7 @@ const Dress = () => {
         </div>
         
       </div>
-      <div className="w-full p-4 m-1 mx-3 mx-auto my-4 shadow-2xl hover:bg-pink-200 lg:w-1/5 md:w-1/2"><Link href={'/product/ritik'}
+      <div className="w-full p-4 m-1 mx-3 mx-auto my-4 shadow-2xl lg:w-1/5 md:w-1/2"><Link href={'/disp3'}
          className="relative block overflow-hidden rounded">
           <img alt="ecommerce" className="m-auto md:mx-0 block h-[30vh] md:h-[36vh]" src="COUPLE6.webp"/>
         </Link>
@@ -85,7 +85,7 @@ const Dress = () => {
         </div>
         
       </div>
-      <div className="w-full p-4 m-1 mx-3 mx-auto my-4 shadow-2xl hover:bg-pink-200 lg:w-1/5 md:w-1/2"><Link href={'/product/ritik'}
+      <div className="w-full p-4 m-1 mx-3 mx-auto my-4 shadow-2xl lg:w-1/5 md:w-1/2"><Link href={'/disp3'}
          className="relative block overflow-hidden rounded">
           <img alt="ecommerce" className="m-auto md:mx-0 block h-[30vh] md:h-[36vh]" src="COUPLE7.webp"/>
         </Link>
@@ -97,7 +97,7 @@ const Dress = () => {
         </div>
         
       </div>
-      <div className="w-full p-4 m-1 mx-3 mx-auto my-4 shadow-2xl hover:bg-pink-200 lg:w-1/5 md:w-1/2"><Link href={'/product/ritik'}
+      <div className="w-full p-4 m-1 mx-3 mx-auto my-4 shadow-2xl lg:w-1/5 md:w-1/2"><Link href={'/disp3'}
          className="relative block overflow-hidden rounded">
           <img alt="ecommerce" className="m-auto md:mx-0 block h-[30vh] md:h-[36vh]" src="COUPLE8.webp"/>
         </Link>

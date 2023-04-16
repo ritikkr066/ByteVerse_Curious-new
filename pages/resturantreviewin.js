@@ -50,7 +50,10 @@ const Resturantreviewin = () => {
 <section>
 
     <div className='flex flex-row justify-around px-1 align-middle'>
+    <div>
     <p className='ml-10 text-5xl'>Reviews</p>
+    
+    </div>
     <div className='flex flex-row justify-end'>
             <select  className='ml-5 text-cyan-600 w-25'>
             <option>Sort</option>
