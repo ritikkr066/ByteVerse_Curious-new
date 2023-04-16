@@ -18,7 +18,7 @@ const Hom2 = () => {
       </motion.div>
       <div className='flex h-[70vh] bg-green-200'>
         
-        <div className='flex flex-col w-1/3 pt-4 text-6xl bg-green-200 hover:bg-orange-400 justify-space'>
+        <div className='flex flex-col w-1/3 pt-4 text-6xl bg-blue-300 rounded-3xl hover:bg-orange-400 justify-space'>
           <div className='flex justify-center text-amber-900'>
           Review
           </div>
@@ -29,7 +29,7 @@ const Hom2 = () => {
             <li className='pt-4 text-xl text-black hover:text-blue-600 '> Which can be used to provide customers with personal space with their requirements.
               </li></ul></span>
           </div>
-        <div className="flex flex-col w-1/3 pt-4 mx-3 text-6xl bg-green-200 border-spacing-3 hover:bg-orange-400"><div className='flex justify-center text-amber-900'>
+        <div className="flex flex-col w-1/3 pt-4 mx-3 text-6xl bg-blue-300 border-spacing-3 rounded-3xl hover:bg-orange-400"><div className='flex justify-center text-amber-900'>
           Cloth-Line
           </div>
           <span className='pt-6 text-sm '><ul className=''>
@@ -39,7 +39,7 @@ const Hom2 = () => {
             </li>
             <li className='pt-4 mx-3 text-xl text-black hover:text-blue-600 '> We are currently in touch with a Cloths factory owner  our cloth line setup.
               </li></ul></span></div>
-              <div className="flex flex-col w-1/3 pt-4 text-6xl bg-green-200 hover:bg-orange-400"><div className='flex justify-center text-amber-900'>
+              <div className="flex flex-col w-1/3 pt-4 text-6xl bg-blue-300 rounded-3xl hover:bg-orange-400"><div className='flex justify-center text-amber-900'>
           AI-Travel
           </div>
           <span className='pt-6 mx-3 text-sm'><ul>
