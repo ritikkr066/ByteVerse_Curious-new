@@ -17,7 +17,7 @@ const Dress2 = () => {
           <a href='/dress3'><p className='my-1'><button className='px-5 mx-4 text-4xl bg-orange-200 hover:bg-orange-600 rounded-3xl'>FEMALE</button></p></a></div>
     <div className="flex flex-wrap -m-4">
         
-      <div className="w-full p-4 m-1 mx-3 mx-auto my-4 shadow-2xl hover:bg-pink-200 lg:w-1/5 md:w-1/2"><Link href={'/disp'}
+      <div className="w-full p-4 m-1 mx-3 mx-auto my-4 shadow-2xl hover:bg-pink-200 lg:w-1/4 md:w-1/2"><Link href={'/disp'}
          className="relative block overflow-hidden rounded">
           <img alt="ecommerce" className="m-auto md:mx-0 block h-[30vh] md:h-[36vh]" src="Abc1.jpg"/>
         </Link>
@@ -29,7 +29,7 @@ const Dress2 = () => {
         </div>
         
       </div>
-      <div className="w-full p-4 m-1 mx-3 mx-auto my-4 shadow-2xl hover:bg-pink-200 lg:w-1/5 md:w-1/2"><Link href={'/disp'}
+      <div className="w-full p-4 m-1 mx-3 mx-auto my-4 shadow-2xl hover:bg-pink-200 lg:w-1/4 md:w-1/2"><Link href={'/disp'}
          className="relative block overflow-hidden rounded">
           <img alt="ecommerce" className="m-auto md:mx-0 block h-[30vh] md:h-[36vh] pl-8" src="Abc2.jpg"/>
         </Link>
@@ -41,7 +41,7 @@ const Dress2 = () => {
         </div>
         
       </div>
-      <div className="w-full p-4 m-1 mx-3 mx-auto my-4 shadow-2xl hover:bg-pink-200 lg:w-1/5 md:w-1/2"><Link href={'/disp'}
+      <div className="w-full p-4 m-1 mx-3 mx-auto my-4 shadow-2xl hover:bg-pink-200 lg:w-1/4 md:w-1/2"><Link href={'/disp'}
          className="relative block overflow-hidden rounded">
           <img alt="ecommerce" className="m-auto md:mx-0 block h-[30vh] md:h-[36vh] pl-6" src="Abc3.jpg"/>
         </Link>
@@ -53,7 +53,7 @@ const Dress2 = () => {
         </div>
         
       </div>
-      <div className="w-full p-4 m-1 mx-3 mx-auto my-4 shadow-2xl hover:bg-pink-200 lg:w-1/5 md:w-1/2"><Link href={'/disp'}
+      <div className="w-full p-4 m-1 mx-3 mx-auto my-4 shadow-2xl hover:bg-pink-200 lg:w-1/4 md:w-1/2"><Link href={'/disp'}
          className="relative block overflow-hidden rounded">
           <img alt="ecommerce" className="m-auto md:mx-0 block h-[30vh] md:h-[36vh] pl-6" src="Abc5.jpg"/>
         </Link>
@@ -65,7 +65,7 @@ const Dress2 = () => {
         </div>
         
       </div>
-      <div className="w-full p-4 m-1 mx-3 mx-auto my-4 shadow-2xl hover:bg-pink-200 lg:w-1/5 md:w-1/2"><Link href={'/disp'}
+      <div className="w-full p-4 m-1 mx-3 mx-auto my-4 shadow-2xl hover:bg-pink-200 lg:w-1/4 md:w-1/2"><Link href={'/disp'}
          className="relative block overflow-hidden rounded">
           <img alt="ecommerce" className="m-auto md:mx-0 block h-[30vh] md:h-[36vh] pl-4" src="Abc7.jpg"/>
         </Link>
@@ -77,7 +77,7 @@ const Dress2 = () => {
         </div>
         
       </div>
-      <div className="w-full p-4 m-1 mx-3 mx-auto my-4 shadow-2xl hover:bg-pink-200 lg:w-1/5 md:w-1/2"><Link href={'/disp'}
+      <div className="w-full p-4 m-1 mx-3 mx-auto my-4 shadow-2xl hover:bg-pink-200 lg:w-1/4 md:w-1/2"><Link href={'/disp'}
          className="relative block overflow-hidden rounded">
           <img alt="ecommerce" className="m-auto md:mx-0 block h-[30vh] md:h-[36vh] pl-6 " src="Abc8.jpg"/>
         </Link>
@@ -89,7 +89,7 @@ const Dress2 = () => {
         </div>
         
       </div>
-      <div className="w-full p-4 m-1 mx-3 mx-auto my-4 shadow-2xl hover:bg-pink-200 lg:w-1/5 md:w-1/2"><Link href={'/disp'}
+      <div className="w-full p-4 m-1 mx-3 mx-auto my-4 shadow-2xl hover:bg-pink-200 lg:w-1/4 md:w-1/2"><Link href={'/disp'}
          className="relative block overflow-hidden rounded">
           <img alt="ecommerce" className="m-auto md:mx-0 block h-[30vh] md:h-[36vh] pl-3" src="Abc9.jpg"/>
         </Link>
@@ -101,7 +101,7 @@ const Dress2 = () => {
         </div>
         
       </div>
-      <div className="w-full p-4 m-1 mx-3 mx-auto my-4 shadow-2xl hover:bg-pink-200 lg:w-1/5 md:w-1/2"><Link href={'/disp'}
+      <div className="w-full p-4 m-1 mx-3 mx-auto my-4 shadow-2xl hover:bg-pink-200 lg:w-1/4 md:w-1/2"><Link href={'/disp'}
          className="relative block overflow-hidden rounded">
           <img alt="ecommerce" className="m-auto md:mx-0 block h-[30vh] md:h-[36vh] pl-12" src="Abc10.jpg"/>
         </Link>

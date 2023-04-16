@@ -12,7 +12,7 @@ const Dress3 = () => {
           <a className='flex' href='/dress2'><p className="flex my-1"><button className='px-5 mx-16 mr-4 text-4xl bg-orange-200 hover:bg-orange-600 rounded-3xl'>MALE</button></p></a>
           <a href='/dress3'><p className='my-1'><button className='px-5 mx-4 text-4xl bg-orange-200 hover:bg-orange-600 rounded-3xl'>FEMALE</button></p></a></div>
     <div className="flex flex-wrap -m-4">
-      <div className="w-full p-4 m-1 mx-3 mx-auto my-4 shadow-2xl hover:bg-pink-200 lg:w-1/5 md:w-1/2"><Link href={'/disp2'}
+      <div className="w-full p-4 m-1 mx-3 mx-auto my-4 shadow-2xl hover:bg-pink-200 lg:w-1/4 md:w-1/2"><Link href={'/disp2'}
          className="relative block overflow-hidden rounded">
           <img alt="ecommerce" className="m-auto md:mx-0 block h-[30vh] md:h-[36vh] pl-14" src="Abc11.jpg"/>
         </Link>
@@ -24,7 +24,7 @@ const Dress3 = () => {
         </div>
         
       </div>
-      <div className="w-full p-4 m-1 mx-3 mx-auto my-4 shadow-2xl hover:bg-pink-200 lg:w-1/5 md:w-1/2"><Link href={'/disp2'}
+      <div className="w-full p-4 m-1 mx-3 mx-auto my-4 shadow-2xl hover:bg-pink-200 lg:w-1/4 md:w-1/2"><Link href={'/disp2'}
          className="relative block overflow-hidden rounded">
           <img alt="ecommerce" className="m-auto md:mx-0 block h-[30vh] md:h-[36vh] pl-14" src="Abc12.jpg"/>
         </Link>
@@ -36,7 +36,7 @@ const Dress3 = () => {
         </div>
         
       </div>
-      <div className="w-full p-4 m-1 mx-3 mx-auto my-4 shadow-2xl hover:bg-pink-200 lg:w-1/5 md:w-1/2"><Link href={'/disp2'}
+      <div className="w-full p-4 m-1 mx-3 mx-auto my-4 shadow-2xl hover:bg-pink-200 lg:w-1/4 md:w-1/2"><Link href={'/disp2'}
          className="relative block overflow-hidden rounded">
           <img alt="ecommerce" className="m-auto md:mx-0 block h-[30vh] md:h-[36vh] pl-14" src="Abc13.jpg"/>
         </Link>
@@ -48,7 +48,7 @@ const Dress3 = () => {
         </div>
         
       </div>
-      <div className="w-full p-4 m-1 mx-3 mx-auto my-4 shadow-2xl hover:bg-pink-200 lg:w-1/5 md:w-1/2"><Link href={'/disp2'}
+      <div className="w-full p-4 m-1 mx-3 mx-auto my-4 shadow-2xl hover:bg-pink-200 lg:w-1/4 md:w-1/2"><Link href={'/disp2'}
          className="relative block overflow-hidden rounded">
           <img alt="ecommerce" className="m-auto md:mx-0 block h-[30vh] md:h-[36vh] pl-14" src="Abc14.jpg"/>
         </Link>
@@ -60,7 +60,7 @@ const Dress3 = () => {
         </div>
         
       </div>
-      <div className="w-full p-4 m-1 mx-3 mx-auto my-4 shadow-2xl hover:bg-pink-200 lg:w-1/5 md:w-1/2"><Link href={'/disp2'}
+      <div className="w-full p-4 m-1 mx-3 mx-auto my-4 shadow-2xl hover:bg-pink-200 lg:w-1/4 md:w-1/2"><Link href={'/disp2'}
          className="relative block overflow-hidden rounded">
           <img alt="ecommerce" className="m-auto md:mx-0 block h-[30vh] md:h-[36vh] pl-14" src="Abc15.jpg"/>
         </Link>
@@ -72,7 +72,7 @@ const Dress3 = () => {
         </div>
         
       </div>
-      <div className="w-full p-4 m-1 mx-3 mx-auto my-4 shadow-2xl hover:bg-pink-200 lg:w-1/5 md:w-1/2"><Link href={'/disp2'}
+      <div className="w-full p-4 m-1 mx-3 mx-auto my-4 shadow-2xl hover:bg-pink-200 lg:w-1/4 md:w-1/2"><Link href={'/disp2'}
          className="relative block overflow-hidden rounded">
           <img alt="ecommerce" className="m-auto md:mx-0 block h-[30vh] md:h-[36vh] pl-14" src="Abc16.jpg"/>
         </Link>
@@ -84,7 +84,7 @@ const Dress3 = () => {
         </div>
         
       </div>
-      <div className="w-full p-4 m-1 mx-3 mx-auto my-4 shadow-2xl hover:bg-pink-200 lg:w-1/5 md:w-1/2"><Link href={'/disp2'}
+      <div className="w-full p-4 m-1 mx-3 mx-auto my-4 shadow-2xl hover:bg-pink-200 lg:w-1/4 md:w-1/2"><Link href={'/disp2'}
          className="relative block overflow-hidden rounded">
           <img alt="ecommerce" className="m-auto md:mx-0 block h-[30vh] md:h-[36vh] pl-11" src="Abc17.jpg"/>
         </Link>
@@ -96,7 +96,7 @@ const Dress3 = () => {
         </div>
         
       </div>
-      <div className="w-full p-4 m-1 mx-3 mx-auto my-4 shadow-2xl hover:bg-pink-200 lg:w-1/5 md:w-1/2"><Link href={'/disp2'}
+      <div className="w-full p-4 m-1 mx-3 mx-auto my-4 shadow-2xl hover:bg-pink-200 lg:w-1/4 md:w-1/2"><Link href={'/disp2'}
          className="relative block overflow-hidden rounded">
           <img alt="ecommerce" className="m-auto md:mx-0 block h-[30vh] md:h-[36vh] pl-9" src="Abc34.jpg"/>
         </Link>

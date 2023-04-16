@@ -28,6 +28,7 @@ const Hom2 = () => {
             </li>
             <li className='pt-4 text-xl text-black hover:text-blue-600 '> Which can be used to provide customers with personal space with their requirements.
               </li></ul></span>
+             <span className='flex justify-center mt-6'> <a href='./hotelreview'><button className='px-8 py-3 text-xl bg-black rounded-2xl'>View Review</button></a></span>
           </div>
         <div className="flex flex-col w-1/3 pt-4 mx-3 text-6xl bg-blue-300 border-spacing-3 rounded-3xl hover:bg-orange-400"><div className='flex justify-center text-amber-900'>
           Cloth-Line
@@ -38,7 +39,8 @@ const Hom2 = () => {
 
             </li>
             <li className='pt-4 mx-3 text-xl text-black hover:text-blue-600 '> We are currently in touch with a Cloths factory owner  our cloth line setup.
-              </li></ul></span></div>
+              </li></ul></span>
+              <span className='flex justify-center mt-0'> <a href='./dress'><button className='px-8 py-3 text-xl bg-black rounded-2xl'>Cloth-Line</button></a></span></div>
               <div className="flex flex-col w-1/3 pt-4 text-6xl bg-blue-300 rounded-3xl hover:bg-orange-400"><div className='flex justify-center text-amber-900'>
           AI-Travel
           </div>
@@ -51,7 +53,8 @@ const Hom2 = () => {
 
             </li>
             <li className='pt-4 text-xl text-black hover:text-blue-600 '>  Those places Which are worthy to be called as “Hidden Gems”.
-              </li></ul></span></div>
+              </li></ul></span>
+              <span className='flex justify-center mt-0'> <a href='./NotAvail'><button className='px-8 py-3 text-xl bg-black rounded-2xl'>View AI</button></a></span></div>
       </div>
     </div>
   );

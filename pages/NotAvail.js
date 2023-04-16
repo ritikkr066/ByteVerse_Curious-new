@@ -14,7 +14,7 @@ function Rating() {
             transition={{delay:0.75}}
             className="py-6 bg-green-200 ">
            <span className="flex flex-row px-12 text-2xl text-red-700 ">
-        Not Available Right Now!!!!
+        COMING SOON!!!!
         </span>
         <span className="flex flex-row px-12 text-xl text-blue-700">
         You will get notified once it's Available
